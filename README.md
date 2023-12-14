@@ -5,7 +5,7 @@
 <img src="angular/bootstrap-icons.png">
 <img src="angular/json server.png">
 <img src="angular/jwt.png">
-<img src="angularjwt.com.png">
+<img src="angular/jwt.com.png">
 <img src="angular/run json-server.png">
 <img src="angular/npm install.png">
 <img src="angular/login.png">
