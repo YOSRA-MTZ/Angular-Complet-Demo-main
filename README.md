@@ -13,4 +13,4 @@
 <img src="angular/products.png">
 <img src="angular/new.png">
 <img src="angular/edit.png">
-<img src="angular/notAuthorized.png">
+
