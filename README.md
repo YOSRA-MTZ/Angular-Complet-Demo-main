@@ -7,5 +7,10 @@
 <img src="angular/jwt.png">
 <img src="angular/jwt.com.png">
 <img src="angular/run json-server.png">
+<img src="angular/login.png">
+<img src="angular/home.png">
+<img src="angular/products.png">
+<img src="angular/new.png">
+<img src="angular/edit.png">
 
 
